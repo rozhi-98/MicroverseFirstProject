@@ -14,13 +14,12 @@
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Rozh Bahman Tahir**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/rozhi-98
+- LinkedIn: https://www.linkedin.com/in/rozh-tahir-446203185
 
 
 ## 🤝 Contributing
